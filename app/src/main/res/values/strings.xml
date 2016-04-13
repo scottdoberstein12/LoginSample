@@ -1,0 +1,7 @@
+<resources>
+    <string name="facebook_app_id">922199977897900</string>
+    <string name="app_name">LoginSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Welcome! Please log in with your Facebook credentials!</string>
+    <string name="wrong_page">Hopefully you don\'t see this!</string>
+</resources>
